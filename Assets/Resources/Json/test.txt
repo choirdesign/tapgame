@@ -1,0 +1,11 @@
+[{"ID":0,"name":"‚Í‚È‚°‚³‚ñ","attack":45,"deffence":7,"speed":34,"exp":36},
+{"ID":1,"name":"‚æ‚½‚ë‚³‚ñ","attack":454,"deffence":5,"speed":4,"exp":65},
+{"ID":2,"name":"‚Þ‚µ‚å‚­‚³‚ñ","attack":454,"deffence":55,"speed":22,"exp":33},
+{"ID":3,"name":"‚¢‚×‚è‚±‚³‚ñ","attack":5,"deffence":8,"speed":6,"exp":2454},
+{"ID":4,"name":"‚Í‚È‚ ‚ç‚µ‚³‚ñ","attack":4,"deffence":78,"speed":13,"exp":345},
+{"ID":5,"name":"‚©‚­‚¹‚ñ‚³‚ñ","attack":54545,"deffence":54,"speed":7564,"exp":66},
+{"ID":6,"name":"‚µ‚ß‚È‚í‚³‚ñ","attack":6,"deffence":3,"speed":234,"exp":35356},
+{"ID":7,"name":"‚Æ‚Ç‚ë‚«‚³‚ñ","attack":787,"deffence":54,"speed":65,"exp":3245},
+{"ID":8,"name":"‚°‚·‚¨‚³‚ñ","attack":24,"deffence":642,"speed":23,"exp":777},
+{"ID":9,"name":"‚¢‚µ‚Ã‚«‚³‚ñ","attack":545,"deffence":67,"speed":774,"exp":4},
+{"ID":10,"name":"‚½‚ë‚¤‚³‚ñ","attack":67,"deffence":34,"speed":222,"exp":3}]
